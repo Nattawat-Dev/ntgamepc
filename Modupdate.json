@@ -1,0 +1,14 @@
+[
+	{
+		"modemod": "SKIN",
+		"fileurlmod": "http://154.208.140.113/ALLDAYGAMESUPDATE/Updatefile/updateserve.zip"
+	},
+	{
+		"modemod": "CAR",
+		"fileurlmod": "http://154.208.140.113/ALLDAYGAMESUPDATE/Updatefile/carserver.zip"
+	},
+	{
+		"modemod": "UI",
+		"fileurlmod": "http://154.208.140.113/ALLDAYGAMESUPDATE/Updatefile/uiserver.zip"
+	}
+]

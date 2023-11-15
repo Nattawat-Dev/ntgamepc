@@ -1,0 +1,13 @@
+[
+	{
+		"mode": "Games",
+		"usrl": "http://154.208.140.113/ALLDAYGAMESUPDATE/Games/Gamefile.zip",
+		"usrlfile": "http://154.208.140.113/ALLDAYGAMESUPDATE/Games/Gameschack.txt"
+	},
+	{
+		"mode": "Modupdate",
+		"usrlfile": "http://154.208.140.113/ALLDAYGAMESUPDATE/Games/Servermodchack.txt",
+		"usrlfileui": "http://154.208.140.113/ALLDAYGAMESUPDATE/Games/Uichack.txt",
+		"usrlfilecar": "http://154.208.140.113/ALLDAYGAMESUPDATE/Games/Carchack.txt"
+	}
+]
